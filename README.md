@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
+I'm Haris Naseer #Programmer23112000 👨🏻‍💻
+A Full Stack Web Developer with certification in most cutting edge technologies of development, apps and microservices who loves building education products. I’d love to combine my passion for learning and teaching with my software development skills to continue building personalized learning products for people.
 
-<!--
-**harisnaseer24/harisnaseer24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Open Source Love Ask Me Anything !
 
-- 🔭 I’m currently working on Web Designing
-- 🌱 I’m currently learning Github
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+An enthusiastic Full Stack Developer who is passionate about new technologies 😃
+🔭 I am currently working on ASP .NET MVC Core, PHP/Laravel, Node Js.
+🌱 I am currently learning Next.js.
+💫 Looking to contribute to open-source
+
+🤝 Connect with me:
+  ...
 -->
