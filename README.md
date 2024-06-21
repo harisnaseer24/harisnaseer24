@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Haris Naseer #Programmer23112000 👨🏻‍💻
+I'm Haris Naseer 👨🏻‍💻
 A Full Stack Web Developer with certification in most cutting edge technologies of development, apps and microservices who loves building education products. I’d love to combine my passion for learning and teaching with my software development skills to continue building personalized learning products for people.
 
 
@@ -10,6 +10,5 @@ An enthusiastic Full Stack Developer who is passionate about new technologies �
 🌱 I am currently learning Next.js.
 💫 Looking to contribute to open-source
 
-🤝 Connect with me:
-  ...
--->
+🤝 Connect with me
+
